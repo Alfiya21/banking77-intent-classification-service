@@ -1,0 +1,9 @@
+{
+  "model": "tfidf_logreg",
+  "train_size": 10003,
+  "test_size": 3080,
+  "num_classes": 77,
+  "test_accuracy": 0.8942,
+  "test_macro_f1": 0.8945,
+  "train_seconds": 77.6
+}
